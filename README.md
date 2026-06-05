@@ -1,4 +1,4 @@
-# Hi, I'm Priyadharshini 👋
+# Hi, I'm Priyadharshini 
 
 M.E. Computer Science @ Government College of Technology, Coimbatore  
 I build AI/ML systems — computer vision, re-identification, and LLM-based applications.
