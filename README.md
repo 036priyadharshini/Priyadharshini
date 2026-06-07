@@ -10,4 +10,4 @@ I build AI/ML systems — computer vision, re-identification, and LLM-based appl
 
 **Currently** Targeting AI/ML roles
 
-📫 priyax40@gmail.com · 🌐 [LinkedIn](https://www.linkedin.com/in/priyadharshini-g-889541275)
+📫 priyax40@gmail.com · 🌐 [LinkedIn](www.linkedin.com/in/15-priyadharshini-g)
